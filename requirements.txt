@@ -1,0 +1,5 @@
+discord
+python-dotenv
+asyncio
+boto3
+requests
